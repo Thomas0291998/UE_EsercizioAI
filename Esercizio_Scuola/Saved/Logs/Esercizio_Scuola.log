@@ -2532,3 +2532,6 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.02.05-15.30.46:982][847]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Brain/BTT_search.
 [2026.02.05-15.30.46:985][847]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Brain/BTT_SetMovementSpeed.
 [2026.02.05-15.30.46:985][847]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Brain/BTT_TurnToPatrol.
+[2026.02.05-15.33.14:003][288]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22812.183594
+[2026.02.05-15.33.15:003][291]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.05-15.33.15:003][291]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22812.849609, Update Interval: 315.024261
