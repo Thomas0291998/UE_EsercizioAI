@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/thoma/Desktop/UE_EsercizioAI/Esercizio_Scuola/Content/Brain/BP_AI_Enemy_Controller.uasset",
+				"C:/Users/thoma/Desktop/UE_EsercizioAI/Esercizio_Scuola/Content/ThirdPerson/Blueprints/BP_Enemy.uasset",
 				"C:/Users/dbga_067/Desktop/UE_EsercizioAI/Esercizio_Scuola/Content/Brain/AISense.uasset",
 				"C:/Users/dbga_067/Desktop/UE_EsercizioAI/Esercizio_Scuola/Content/Brain/E_Sense.uasset",
 				"C:/Users/dbga_067/Desktop/UE_EsercizioAI/Esercizio_Scuola/Content/Brain/AiStates.uasset",
